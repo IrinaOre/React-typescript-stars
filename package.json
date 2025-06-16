@@ -1,7 +1,7 @@
 {
   "name": "react-typescript-stars",
   "version": "0.1.0",
-  "homepage": "https://IrinaOre.github.io/React-typescript-stars",
+  "homepage": "https://IrinaOre.github.io/React-typescript-etsy",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
